@@ -1,0 +1,18 @@
+.transport {
+    margin-bottom: 150px;
+}
+
+.transport__container {
+    max-width: 1440px;
+    margin: 0 auto;
+}
+
+.transport__title {
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+.transporting__blog {
+    display: flex;
+    justify-content: space-around;
+}
